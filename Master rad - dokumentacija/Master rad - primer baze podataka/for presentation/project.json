@@ -1,0 +1,197 @@
+[{
+  "_id": {
+    "$oid": "62d98ad32ced0cf3e9453a97"
+  },
+  "project_name": "a",
+  "company_id": "628be050199d657140330bd3",
+  "users": [
+    "a1@a.com",
+    "a2@a.com",
+    "a3@a.com",
+    "a4@a.com",
+    "a5@a.com",
+    "a6@a.com",
+    "a7@a.com",
+    "a8@a.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d98b082ced0cf3e9453b7a"
+  },
+  "project_name": "b",
+  "company_id": "628be050199d657140330bd3",
+  "users": [
+    "b@b.com",
+    "b1@b.com",
+    "b2@b.com",
+    "b3@b.com",
+    "b4@b.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d98b2e2ced0cf3e9453c11"
+  },
+  "project_name": "c",
+  "company_id": "628be050199d657140330bd3",
+  "users": [
+    "c1@c.com",
+    "c2@c.com",
+    "c3@c.com",
+    "c4@c.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62d98b442ced0cf3e9453c8e"
+  },
+  "project_name": "d",
+  "company_id": "628be050199d657140330bd3",
+  "users": [
+    "d1@d.com",
+    "d2@d.com",
+    "d3@d.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dac299adf46c036fc6de42"
+  },
+  "project_name": "Tim 1",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "x1@x.com",
+    "x2@x.com",
+    "x3@x.com",
+    "x4@x.com",
+    "x5@x.com",
+    "x6@x.com",
+    "x7@x.com",
+    "x8@x.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dac729adf46c036fc6e26e"
+  },
+  "project_name": "Tim 3",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "z1@z.com",
+    "z2@z.com",
+    "z3@z.com",
+    "z4@z.com",
+    "z5@z.com",
+    "x9@x.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dace0cadf46c036fc6e559"
+  },
+  "project_name": "Tim 2",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "y1@y.com",
+    "y2@y.com",
+    "y3@y.com",
+    "y4@y.com",
+    "y5@y.com",
+    "y6@y.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dad2d0adf46c036fc6ea3a"
+  },
+  "project_name": "Manuleni T",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "w1@w.com",
+    "w2@w.com",
+    "w3@w.com",
+    "w4@w.com",
+    "x10@x.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dad47eadf46c036fc6ed04"
+  },
+  "project_name": "Automatski T",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "k1@k.com",
+    "k2@k.com",
+    "k3@k.com",
+    "y7@y.com",
+    "y8@y.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62daea08e35f944847715563"
+  },
+  "project_name": "HR",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "h1@h.com",
+    "h2@h.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62daea6be35f944847715745"
+  },
+  "project_name": "Prodaja",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "prodaja1@p.com",
+    "prodaja2@p.com",
+    "prodaja3@p.com",
+    "prodaja4@p.com",
+    "prodaja5@p.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db519748cb4d7b01b9b775"
+  },
+  "project_name": "Racunovodstvo",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "ad1@a.com",
+    "ad2@a.com",
+    "ad3@a.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db546648cb4d7b01b9bd6c"
+  },
+  "project_name": "Tehnicka podrska",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "th1@t.com",
+    "th2@t.com",
+    "th3@t.com",
+    "th4@t.com",
+    "th5@t.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db548448cb4d7b01b9beb0"
+  },
+  "project_name": "Marketing",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "m1@m.com",
+    "m2@m.com",
+    "m3@m.com",
+    "m4@m.com",
+    "m5@m.com"
+  ],
+  "__v": 0
+}]

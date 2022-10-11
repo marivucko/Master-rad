@@ -1,0 +1,522 @@
+[{
+  "_id": {
+    "$oid": "62dab015f0c9f3b7d02a20a3"
+  },
+  "office_name": "A1",
+  "company_id": "628be050199d657140330bd3",
+  "floor": -1,
+  "columns": 4,
+  "rows": 4,
+  "num_of_seats": 4,
+  "matrix": [
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "L1",
+        "orientation": 3.5
+      },
+      {
+        "label": "L2",
+        "orientation": 0.5
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "L4",
+        "orientation": 2.5
+      },
+      {
+        "label": "L3",
+        "orientation": 1.5
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ]
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dab050f0c9f3b7d02a20b0"
+  },
+  "office_name": "A2",
+  "company_id": "628be050199d657140330bd3",
+  "floor": -2,
+  "columns": 4,
+  "rows": 4,
+  "num_of_seats": 8,
+  "matrix": [
+    [
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 3
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 3
+      }
+    ]
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dae651ed5641adb4eb3620"
+  },
+  "office_name": "P1",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "floor": 1,
+  "columns": 6,
+  "rows": 4,
+  "num_of_seats": 10,
+  "matrix": [
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ]
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dae6f0ed5641adb4eb3625"
+  },
+  "office_name": "P2",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "floor": 1,
+  "columns": 6,
+  "rows": 4,
+  "num_of_seats": 15,
+  "matrix": [
+    [
+      {
+        "label": "",
+        "orientation": 3.5
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0.5
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 3.5
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 2.5
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 2
+      },
+      {
+        "label": "",
+        "orientation": 1.5
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 3
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 3
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 3.5
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0.5
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ]
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dae726ed5641adb4eb3629"
+  },
+  "office_name": "P3",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "floor": 2,
+  "columns": 6,
+  "rows": 4,
+  "num_of_seats": 10,
+  "matrix": [
+    [
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": 0
+      },
+      {
+        "label": "",
+        "orientation": 0
+      }
+    ],
+    [
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      },
+      {
+        "label": "",
+        "orientation": -1
+      }
+    ]
+  ],
+  "__v": 0
+}]

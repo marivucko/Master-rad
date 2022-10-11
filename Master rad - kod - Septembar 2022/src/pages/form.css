@@ -1,0 +1,297 @@
+.behind-form {
+  background-image: url("../assets/images/office-background-desktop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  height: 100%;
+  align-items: flex-start;
+  display: flex;
+}
+
+.form {
+  border: none;
+  border-radius: 1rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 3.25rem 2.75rem;
+  margin-top: 5%;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  position: relative;
+}
+
+.form-empty {
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+
+.form-design {
+  border: none;
+  border-radius: 1rem;
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 3.25rem 2.75rem;
+  margin-top: 5%;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  width: 100%;
+  height: 100%;
+}
+
+.form-page-name {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+}
+
+.form-button {
+  border-radius: 60px;
+  background-color: var(--nav-bar_color);
+  padding: 0.5rem 2rem;
+  margin-top: 1.5rem;
+  color: white;
+  font-size: 1.6rem;
+  border: none;
+  cursor: pointer;
+}
+
+.form-button-smaller-padding {
+  border-radius: 60px;
+  background-color: var(--nav-bar_color);
+  padding: 0.5rem 1rem;
+  margin-top: 1.5rem;
+  color: white;
+  font-size: 1.6rem;
+  border: none;
+  cursor: pointer;
+}
+
+.form-button-reverse-color {
+  border-radius: 60px;
+  color: var(--nav-bar_color);
+  padding: 0.5rem 1rem;
+  margin: 1.5rem;
+  background-color: lightgray;
+  border-color: var(--nav-bar_color);
+  font-size: 1.1rem;
+  border: 2px solid;
+  cursor: pointer;
+  font-weight: 400;
+}
+
+.form-long-text {
+  text-align: justify;
+}
+
+.form-company-card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  background-color: rgba(255, 255, 255, 0.85);
+  display: inline-block;
+  text-align: left;
+  padding: 3.25rem 1rem;
+  margin-top: 5%;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  position: relative;
+  padding: 3.25rem 2.75rem;
+  margin-top: 5%;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-family: "Roboto", sans-serif;
+}
+
+.form-office-card {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  background-color: rgba(255, 255, 255, 0.85);
+  display: inline-block;
+  text-align: left;
+  padding: 1.5rem 1.5rem;
+  margin-top: 5%;
+  margin: 0.5rem;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+}
+
+.form-office-card-reverse-color {
+  border: none;
+  border-radius: 1rem;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  background-color: var(--nav-bar_color);
+  color: var(--link_color);
+  display: inline-block;
+  text-align: left;
+  padding: 1.5rem 1.5rem;
+  margin-top: 5%;
+  margin: 0.5rem;
+  position: relative;
+  font-family: "Roboto", sans-serif;
+}
+
+.form-company-card-title {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.form-company-card-lines {
+  padding: 0.25rem 0rem;
+  margin: 0.5rem;
+  font-size: 1.5rem;
+}
+
+.form-text-and-input {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  width: 25rem;
+}
+
+.form-text-before-input {
+  padding-left: 1rem;
+  color: rgb(95, 95, 95);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.form-companies {
+  align-items: flex-start;
+}
+
+.form-company-name {
+  display: list-item;
+  list-style-type: square;
+  margin: 1rem 1rem;
+  font-weight: 500;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+
+.column-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.row-container-office {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-top: 0.5px solid lightgray;
+  border-bottom: 0.5px solid lightgray;
+}
+
+.row-container-floor-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.top-right-corner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin-top: 1.5rem;
+  margin-right: 1.5rem;
+  font-weight: bold;
+  color: var(--nav-bar_color);
+}
+
+@media (max-width: 25rem) {
+  .form-page-name {
+    font-size: 1.75rem;
+  }
+  .form-company-name {
+    font-size: 1.25rem;
+  }
+  .form {
+    padding: 2rem 2rem;
+    opacity: 1;
+  }
+  .form-input {
+    font-size: 1rem;
+    padding: 1rem 1rem 1rem 3rem;
+    margin: 1rem 0rem;
+    width: 60%;
+  }
+  .form-input-icon {
+    font-size: 1.2rem;
+    position: absolute;
+    margin-left: 1.5rem;
+    margin-top: 1.75rem;
+    color: var(--nav-bar_color);
+  }
+}
+
+@media (max-width: 20rem) {
+  .form-page-name {
+    font-size: 1.5rem;
+    margin-left: 1rem;
+  }
+  .form-company-name {
+    font-size: 1rem;
+    margin-left: 2rem;
+  }
+  .form {
+    padding: 0.75rem 0.75rem;
+  }
+  .form-input {
+    font-size: 0.75rem;
+    padding: 0.75rem 0.75rem 0.75rem 2rem;
+    margin: 0.75rem 0rem;
+    width: 50%;
+  }
+  .form-input-icon {
+    font-size: 0.9rem;
+    margin-left: 1rem;
+    margin-top: 1.3rem;
+  }
+  .form-button {
+    margin: 1rem 0rem;
+    padding: 0.5rem 2rem;
+    font-size: 1rem;
+  }
+  .row-container-floor-title {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 14rem) {
+  .form-page-name {
+    font-size: 1rem;
+  }
+  .form-company-name {
+    font-size: 0.75rem;
+  }
+  .form {
+    padding: 0.3rem 0.1rem;
+  }
+  .form-input {
+    width: 5rem;
+  }
+  .form-long-text {
+    font-size: 1rem;
+    padding: 0rem 0.5rem;
+  }
+}

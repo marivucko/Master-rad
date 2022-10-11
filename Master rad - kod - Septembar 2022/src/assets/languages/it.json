@@ -1,0 +1,259 @@
+{
+  "nav_bar": {
+    "app_name_first_word": "Area di lavoro",
+    "app_name_second_word": "gestore",
+    "login": "Entra",
+    "register": "Registrati",
+    "home_page": "Home page",
+    "sign_out": "Esci",
+    "admin": {
+      "home_page": "Home page dell'amministratore",
+      "add_company": "Aggiungi azienda",
+      "offices": "Uffici",
+      "projects": "Progetti",
+      "workers": "Lavoratori",
+      "seating_chart": "Carta dei posti",
+      "analysis": "Analisi"
+    },
+    "client": {
+      "coworkers": "Colleghi",
+      "reserve_table": "Tabella di riserva",
+      "seating_chart_today": "Schema dei posti a sedere di oggi",
+      "seating_chart_tomorrow": "Tabella dei posti a sedere di domani"
+    }
+  },
+  "home": {
+    "welcome": "Benvenuto",
+    "app_description": "Utilizza la nostra app per migliorare la tua produttività e gestire l'utilizzo dei tuoi uffici e delle tue risorse."
+  },
+  "register": {
+    "form_title": "Registrati",
+    "full_name": "Nome completo",
+    "email": "E-mail",
+    "password": "Password",
+    "confirm-password": "Conferma password",
+    "admin_long": "Seleziona il campo se sei amministratore",
+    "admin_short": "Amministratore",
+    "submit": "Registrati",
+    "full_name_not_valid_format": "Il campo non dovrebbe essere vuoto.",
+    "email_not_valid_format": "Il formato dell'email non è valido.",
+    "passowrd_not_valid_format": "La password deve essere più lunga di 6 caratteri, avere almeno una lettera piccola e una grande, una cifra e un carattere speciale.",
+    "password_and_confim_password_not_equal": "Password e conferma password non sono uguali.",
+    "auth_email_already_in_use": "L'utente con questo indirizzo email è già registrato. Vai alla pagina di accesso.",
+    "auth_operation_not_allowed": "Operazione non consentita.",
+    "error": "Errore."
+  },
+  "login": {
+    "form_title": "Accedi",
+    "email": "E-mail",
+    "password": "Password",
+    "submit": "Accedi",
+    "email_not_valid_format": "Il formato dell'email non è valido.",
+    "auth_user_not_found": "Non ci sono utenti con questa email. Vai prima alla pagina di registrazione.",
+    "auth_wrong_password": "La password non è corretta.",
+    "error": "Errore"
+  },
+  "admin": {
+    "home_page": {
+      "title": "Le vostre aziende"
+    },
+    "add_company": {
+      "form_title": "Aggiungi azienda",
+      "company_name": "Nome azienda",
+      "address": "Indirizzo aziendale",
+      "contact_email": "Email di contatto",
+      "contact_number": "Numero di contatto",
+      "start_of_working_hours": "Inizio dell'orario di lavoro",
+      "end_of_working_hours": "Fine dell'orario di lavoro",
+      "submit": "Aggiungi azienda",
+      "email_not_valid_format": "Il formato dell'email non è valido.",
+      "error_empty_field": "Il campo non dovrebbe essere vuoto.",
+      "success": "L'azienda è stata aggiunta con successo.",
+      "save": "Salva"
+    },
+    "company_details": {
+      "form_title": "Dati dell'azienda",
+      "company_name": "Nome azienda:",
+      "address": "Indirizzo aziendale:",
+      "contact_email": "Email di contatto:",
+      "contact_number": "Numero di contatto:",
+      "start_time": "Inizio orario di lavoro:",
+      "end_time": "Fine dell'orario di lavoro:",
+      "update": "Vai alla pagina di aggiornamento"
+    },
+    "update_company": {
+      "form_title": "Aggiorna azienda",
+      "success": "L'azienda è stata aggiornata correttamente.",
+      "update": "Aggiorna"
+    },
+    "delete_company": {
+      "success": "La società è stata eliminata con successo.",
+      "delete": "elimina"
+    },
+    "update_office": {
+      "form_title": "Ufficio aggiornamento",
+      "update": "Aggiorna",
+      "remove_tables": "Rimuovi tabelle",
+      "error_empty_field": "Il campo non dovrebbe essere vuoto.",
+      "success": "L'ufficio è stato aggiornato correttamente.",
+      "error": "Si è verificato un errore interno del server durante l'aggiornamento dell'ufficio."
+    },
+    "offices": {
+      "form_title": "Uffici",
+      "pavimento": "Pavimento",
+      "no_offices": "Non ci sono uffici aggiunti.",
+      "add_office_button": "Aggiungi ufficio"
+    },
+    "office_details": {
+      "form_title": "Dettagli dell'ufficio",
+      "update": "Vai alla pagina di aggiornamento",
+      "delete": "Elimina ufficio",
+      "delete_success": "L'ufficio è stato eliminato con successo",
+      "delete_error": "Si è verificato un errore interno del server durante l'eliminazione dell'ufficio."
+    },
+    "add_office": {
+      "form_title": "Aggiungi ufficio",
+      "office_name": "Nome ufficio",
+      "office_floor": "Piano",
+      "office_columns": "Posti per colonna",
+      "office_rows": "Posti per riga",
+      "office_name_error": "Inserisci il nome dell'ufficio.",
+      "floor_error": "Inserisci il piano dell'ufficio.",
+      "success": "L'ufficio è stato aggiunto con successo.",
+      "error": "Il formato dei dati non è valido."
+    },
+    "projects": {
+      "workers_by_projects": "Lavoratori organizzati per progetti",
+      "add_project_placeholder": "Inserisci nome del nuovo progetto",
+      "project_name_is_empty": "Inserisci il nome del progetto.",
+      "project": "Progetto:",
+      "worker_placeholder": "Inserisci email del lavoratore",
+      "worker_placeholder_empty": "Inserisci l'email del lavoratore.",
+      "worker_does_not_exist": "Questo lavoratore non esiste nell'azienda.",
+      "worker_already_in_this_project": "Questo lavoratore è già stato aggiunto a questo progetto.",
+      "worker_already_in_other_project": "Questo lavoratore è già stato aggiunto al progetto",
+      "worker_added_successfully": "Il lavoratore è stato aggiunto con successo al progetto.",
+      "worker_deleted_successfully": "Il lavoratore è stato eliminato con successo dal progetto.",
+      "project_added_successfully": "Il progetto è stato aggiunto con successo.",
+      "delete_project_button": "Elimina progetto",
+      "project_deleted_successfully": "Il progetto è stato eliminato con successo."
+    },
+    "workers": {
+      "main_page": {
+        "registered_workers": "Lavoratori iscritti",
+        "project": "Progetto:",
+        "invited_users": "Utenti invitati",
+        "invite_user_button": "Invita utente",
+        "add_user_button": "Aggiungi utente",
+        "add_project_button": "Aggiungi nuovo progetto",
+        "no_reg_workers": "Non ci sono ancora lavoratori registrati."
+      },
+      "invite_user": {
+        "title": "Invita un nuovo utente inviando email",
+        "user_email": "E-mail del destinatario",
+        "user_full_name": "Nome completo del destinatario",
+        "full_name_empty": "Il campo non dovrebbe essere vuoto.",
+        "subject": "Oggetto: ",
+        "subject_suggestion": "Invito all'app Workspace Manager",
+        "subject_error": "L'oggetto non dovrebbe essere vuoto.",
+        "message": "Messaggio: ",
+        "message_suggestion_part_1": "Gentile",
+        "message_suggestion_part_2": ",\r\n\r\nL'azienda ",
+        "message_suggestion_part_3": " ti invita a partecipare all'applicazione ",
+        "message_suggestion_part_4": "Insieme, possiamo migliorare la produttività e gestire l'utilizzo dei nostri uffici e risorse.\n\nI migliori auguri, \n",
+        "message_error": "Il messaggio non dovrebbe essere vuoto.",
+        "toast_email_sent": "L'email è stata inviata con successo.",
+        "toast_email_not_sent": "L'email non è stata inviata.",
+        "tosat_already_registered": "L'utente è già stato invitato e registrato.",
+        "tosat_already_invited": "L'utente è già stato invitato.",
+        "invite": "Invia",
+        "server_error": "Si è verificato un errore del server."
+      }
+    },
+    "seating_chart": {
+      "form_title": "Tabella dei posti",
+      "select_date": "Seleziona data",
+      "no_seating_chart_for_this_date": "Non esiste una tabella dei posti a sedere per questa data",
+      "select_office": "SELEZIONA UFFICIO",
+      "num_of_free_seats": "Numero di posti liberi in ufficio: "
+    },
+    "analysis": {
+      "form_title": "Analisi per settimana",
+      "form_text": "Seleziona la data e guarda l'occupazione per quella settimana.",
+      "select_date": "Seleziona data",
+      "bar_chart_first_label": "Numero di lavoratori che sono venuti",
+      "bar_chart_second_label": "Numero di lavoratori che volevano venire ma non avevano posto"
+    }
+  },
+  "client": {
+    "home_page": {
+      "title": "Le vostre aziende"
+    },
+    "coworkers": {
+      "form_title": "I tuoi colleghi organizzati in progetti"
+    },
+    "reserve_table": {
+      "form_title": "Il tuo programma",
+      "select_date": "Seleziona data",
+      "success_saving_date": "La data che hai selezionato è stata aggiunta con successo alla tua pianificazione.",
+      "success_removing_date": "La data che hai selezionato è stata rimossa con successo dal tuo programma.",
+      "all_places_fulfilled": "Spiacente ma tutti i posti sono già occupati per questa data.",
+      "no_project_assigned_to_user": "Verifica con l'amministratore perché non hai progetti assegnati a te, e loro riservano una tabella.",
+      "num_of_free_seats": "Numero di posti liberi: ",
+      "add_yourself_button": "Aggiungi te stesso",
+      "remove_yourself_button": "Rimuovi te stesso",
+      "people_coming": "Persone che vengono organizzate per progetti:",
+      "no_one_coming": "Nessuno ha ancora specificato che stanno arrivando",
+      "see_colleague_schedule": "Guarda il programma del tuo collega",
+      "insert_colleague_email": "Inserisci l'email del collega",
+      "search_colleague_schedule_button": "Cerca",
+      "no_colleague_with_this_email": "Non c'è nessun collega con questo indirizzo email."
+    },
+    "seating_chart": {
+      "today": "Oggi",
+      "tomorrow": "Domani",
+      "form_title_today": "Schema dei posti a sedere di oggi",
+      "form_title_tomorrow": "Tabella dei posti a sedere di domani",
+      "select_office": "SELEZIONA UFFICIO",
+      "no_seat_for_this_user_today": "Non hai completato il sondaggio a cui verrai oggi.",
+      "no_seat_for_this_user_tomorrow": "Non hai completato il sondaggio che verrai domani.",
+      "no_seating_chart_for_today": "Non esiste una tabella dei posti per oggi.",
+      "no_seating_chart_for_tomorrow": "Non c'è una tabella dei posti per domani.",
+      "your_office": "Il tuo ufficio per ",
+      "for_today": "oggi: ",
+      "for_tomorrow": "domani :",
+      "floor": "Piano: "
+    }
+  },
+  "view_office": {
+    "label": "Inserisci etichetta:",
+    "full_name": "Nome completo:",
+    "email": "E-mail:",
+    "project": "Progetto:"
+  },
+  "send_email_form": {
+    "invia_a_admin": {
+      "title": "Non hai aziende assegnate a te. Verifica con l'amministratore dell'azienda se ti ha aggiunto.",
+      "message_suggestion_part_1": "Gentile",
+      "message_suggestion_part_2": ",\n\nNon mi è stata assegnata alcuna azienda. Puoi controllare se sono stato aggiunto all'azienda corretta?\n\nAuguri,\n"
+    }
+  },
+  "survey": {
+    "day": {
+      "monday": "Lunedì",
+      "tuesday": "Martedì",
+      "wednesday": "Mercoledì",
+      "thursday": "Giovedì",
+      "friday": "Venerdì"
+    },
+    "add_button": "Aggiungi",
+    "save_button": "Salva"
+  },
+  "default_server": {
+    "error": {
+      "delete": "Si è verificato un errore interno del server durante l'eliminazione dei dati.",
+      "post": "Si è verificato un errore interno del server durante l'aggiunta dei dati.",
+      "get": "Si è verificato un errore interno del server durante il recupero dei dati."
+    }
+  }
+}

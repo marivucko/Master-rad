@@ -1,0 +1,259 @@
+{
+  "nav_bar": {
+    "app_name_first_word": "Workspace",
+    "app_name_second_word": "manager",
+    "login": "Login",
+    "register": "Register",
+    "home_page": "Home page",
+    "sign_out": "Sign out",
+    "admin": {
+      "home_page": "Admin home page",
+      "add_company": "Add company",
+      "offices": "Offices",
+      "projects": "Projects",
+      "workers": "Workers",
+      "seating_chart": "Seating chart",
+      "analysis": "Analysis"
+    },
+    "client": {
+      "coworkers": "Coworkers",
+      "reserve_table": "Reserve table",
+      "seating_chart_today": "Today's seating chart",
+      "seating_chart_tomorrow": "Tomorrow's seating chart"
+    }
+  },
+  "home": {
+    "welcome": "Welcome",
+    "app_description": "Use our app to improve your productivity and manage the usage of your offices and resources."
+  },
+  "register": {
+    "form_title": "Register",
+    "full_name": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "confirm-password": "Confirm password",
+    "admin_long": "Check the field if you are administrator",
+    "admin_short": "Admin",
+    "submit": "Register",
+    "full_name_not_valid_format": "The field should not be empty.",
+    "email_not_valid_format": "The format of the email is not valid.",
+    "passowrd_not_valid_format": "Password should be longer than 6 characters, have at least one small and one big letter, one digit, and one special character.",
+    "password_and_confim_password_not_equal": "Password and confirm password are not equal.",
+    "auth_email_already_in_use": "The user with this email address is already registered. Go to login page.",
+    "auth_operation_not_allowed": "Operation not allowed.",
+    "error": "Error. "
+  },
+  "login": {
+    "form_title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Login",
+    "email_not_valid_format": "The format of the email is not valid.",
+    "auth_user_not_found": "There is no user with this email. Go to register page first.",
+    "auth_wrong_password": "The password is not correct.",
+    "error": "Error"
+  },
+  "admin": {
+    "home_page": {
+      "title": "Your companies"
+    },
+    "add_company": {
+      "form_title": "Add company",
+      "company_name": "Company name",
+      "address": "Company address",
+      "contact_email": "Contact email",
+      "contact_number": "Contact number",
+      "start_of_working_hours": "Start of working hours",
+      "end_of_working_hours": "End of working hours",
+      "submit": "Add company",
+      "email_not_valid_format": "The format of the email is not valid.",
+      "error_empty_field": "The field should not be empty.",
+      "success": "The company is added successfully.",
+      "save": "Save"
+    },
+    "company_details": {
+      "form_title": "Company details",
+      "company_name": "Company name:",
+      "address": "Company address:",
+      "contact_email": "Contact email:",
+      "contact_number": "Contact number:",
+      "start_time": "Start of working hours:",
+      "end_time": "End of working hours:",
+      "update": "Go to update page"
+    },
+    "update_company": {
+      "form_title": "Update company",
+      "success": "The company is updated successfully.",
+      "update": "Update"
+    },
+    "delete_company": {
+      "success": "The company is deleted successfully.",
+      "delete": "Delete"
+    },
+    "update_office": {
+      "form_title": "Update office",
+      "update": "Update",
+      "remove_tables": "Remove tables",
+      "error_empty_field": "The field should not be empty.",
+      "success": "The office is updated successfully.",
+      "error": "Internal server error occured while updating the office."
+    },
+    "offices": {
+      "form_title": "Offices",
+      "floor": "Floor",
+      "no_offices": "There is no offices added.",
+      "add_office_button": "Add office"
+    },
+    "office_details": {
+      "form_title": "Details of the office",
+      "update": "Go to update page",
+      "delete": "Delete office",
+      "delete_success": "The office is delete successfully",
+      "delete_error": "Internal server error occured while deliting the office."
+    },
+    "add_office": {
+      "form_title": "Add office",
+      "office_name": "Office name",
+      "office_floor": "Floor",
+      "office_columns": "Seats per column",
+      "office_rows": "Seats per row",
+      "office_name_error": "Please insert the name of the office.",
+      "floor_error": "Please insert the floor of the office.",
+      "success": "The office is added successfully.",
+      "error": "The format of data is not valid."
+    },
+    "projects": {
+      "workers_by_projects": "Workers organized by projects",
+      "add_project_placeholder": "Insert name of new project",
+      "project_name_is_empty": "Please insert the name of the project.",
+      "project": "Project:",
+      "worker_placeholder": "Insert email of the worker",
+      "worker_placeholder_empty": "Please insert email of the worker.",
+      "worker_does_not_exist": "This worker does not exist in the company.",
+      "worker_already_in_this_project": "This worker is already added to this project.",
+      "worker_already_in_other_project": "This worker is already added to project ",
+      "worker_added_successfully": "Worker is added successfully to the project.",
+      "worker_deleted_successfully": "Worker is deleted successfully from the project.",
+      "project_added_successfully": "Project is added successfully.",
+      "delete_project_button": "Delete project",
+      "project_deleted_successfully": "Project is deleted successfully."
+    },
+    "workers": {
+      "main_page": {
+        "registered_workers": "Registered workers",
+        "project": "Project:",
+        "invited_users": "Invited users",
+        "invite_user_button": "Invite user",
+        "add_user_button": "Add user",
+        "add_project_button": "Add new project",
+        "no_reg_workers": "There is no registered workers yet."
+      },
+      "invite_user": {
+        "title": "Invite new user by sending email",
+        "user_email": "Receiver's email",
+        "user_full_name": "Receiver's full name",
+        "full_name_empty": "The field should not be empty.",
+        "subject": "Subject: ",
+        "subject_suggestion": "Invitation to Workspace manager app",
+        "subject_error": "The subject should not be empty.",
+        "message": "Message: ",
+        "message_suggestion_part_1": "Dear ",
+        "message_suggestion_part_2": ",\r\n\r\nThe company ",
+        "message_suggestion_part_3": " invites you to join the application ",
+        "message_suggestion_part_4": "Together, we can improve productivity and manage the usage of our offices and resources.\n\nBest Wishes, \n",
+        "message_error": "The message should not be empty.",
+        "toast_email_sent": "The email is successfully sent.",
+        "toast_email_not_sent": "The email is not sent.",
+        "tosat_already_registered": "The user is already invited and registered.",
+        "tosat_already_invited": "The user is already invited.",
+        "invite": "Send",
+        "server_error": "Server error occured."
+      }
+    },
+    "seating_chart": {
+      "form_title": "Seating chart",
+      "select_date": "Select date",
+      "no_seating_chart_for_this_date": "There is no seating chart for this date",
+      "select_office": "SELECT OFFICE",
+      "num_of_free_seats": "Number of free seats in office: "
+    },
+    "analysis": {
+      "form_title": "Analysis by week",
+      "form_text": "Select date and see the occupacity for that week.",
+      "select_date": "Select date",
+      "bar_chart_first_label": "Number of workers who came",
+      "bar_chart_second_label": "Number of workers who wanted to come but did not have place"
+    }
+  },
+  "client": {
+    "home_page": {
+      "title": "Your companies"
+    },
+    "coworkers": {
+      "form_title": "Your coworkers organized in projects"
+    },
+    "reserve_table": {
+      "form_title": "Your schedule",
+      "select_date": "Select date",
+      "success_saving_date": "The date you selected is successfully added to your schedule.",
+      "success_removing_date": "The date you selected is successfully removed from your schedule.",
+      "all_places_fulfilled": "Sorry but all places are already fulfilled for this date.",
+      "no_project_assigned_to_user": "Check with administrator why you do not have any projects assigned to you, and them reserve table.",
+      "num_of_free_seats": "Number of free seats: ",
+      "add_yourself_button": "Add yourself",
+      "remove_yourself_button": "Remove yourself",
+      "people_coming": "People coming organized by projects:",
+      "no_one_coming": "No one has yet filled in that they are coming",
+      "see_colleague_schedule": "See the schedule of your colleague",
+      "insert_colleague_email": "Insert colleague's email",
+      "search_colleague_schedule_button": "Search",
+      "no_colleague_with_this_email": "The is no colleague with this email addres."
+    },
+    "seating_chart": {
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "form_title_today": "Today's seating chart",
+      "form_title_tomorrow": "Tomorrow's seating chart",
+      "select_office": "SELECT OFFICE",
+      "no_seat_for_this_user_today": "You have not fullfiled the survey that you are coming today.",
+      "no_seat_for_this_user_tomorrow": "You have not fullfiled the survey that you are coming tomorrow.",
+      "no_seating_chart_for_today": "There is no seating chart for today.",
+      "no_seating_chart_for_tomorrow": "There is no seating chart for tomorrow.",
+      "your_office": "Your office for ",
+      "for_today": "today: ",
+      "for_tomorrow": "tomorrow :",
+      "floor": "Floor: "
+    }
+  },
+  "view_office": {
+    "label": "Place label:",
+    "full_name": "Full name:",
+    "email": "Email:",
+    "project": "Project:"
+  },
+  "send_email_form": {
+    "send_to_admin": {
+      "title": "You have no companies assigned to you. Check with the company administrator if he has added you.",
+      "message_suggestion_part_1": "Dear ",
+      "message_suggestion_part_2": ",\n\nThere is no company assigned to me. Can you check if I am added to the proper company?\n\nBest Wishes,\n"
+    }
+  },
+  "survey": {
+    "day": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday"
+    },
+    "add_button": "Add",
+    "save_button": "Save"
+  },
+  "default_server": {
+    "error": {
+      "delete": "Internal server error occurred while deleting data.",
+      "post": "Internal server error occurred while adding data.",
+      "get": "Internal server error occurred while getting data."
+    }
+  }
+}

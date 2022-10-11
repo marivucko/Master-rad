@@ -1,0 +1,1281 @@
+[{
+  "_id": {
+    "$oid": "62dbe5892d984205642c92c1"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "w1@w.com",
+        "w2@w.com",
+        "x10@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "y7@y.com",
+        "y8@y.com",
+        "h1@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y5@y.com",
+        "y6@y.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 1
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58a2d984205642c92c3"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y4@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z5@z.com",
+        "x9@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "w1@w.com",
+        "w2@w.com",
+        "h1@h.com",
+        "h2@h.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "th1@t.com",
+        "th3@t.com",
+        "m1@m.com",
+        "m4@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 4
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58b2d984205642c92c5"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x6@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "z2@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "x9@x.com",
+        "m2@m.com",
+        "m3@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "th1@t.com",
+        "th4@t.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "w1@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "k1@k.com",
+        "k2@k.com",
+        "y8@y.com",
+        "h2@h.com",
+        "ad3@a.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 5
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58b2d984205642c92c7"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "y8@y.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com",
+        "h1@h.com",
+        "h2@h.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "m1@m.com",
+        "m4@m.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y5@y.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 6
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58c2d984205642c92c9"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "m2@m.com",
+        "m3@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "z2@z.com",
+        "z4@z.com",
+        "x9@x.com",
+        "w1@w.com",
+        "w4@w.com",
+        "x10@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "y1@y.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "prodaja1@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "k1@k.com",
+        "k2@k.com",
+        "y8@y.com",
+        "ad1@a.com",
+        "ad3@a.com",
+        "th4@t.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 7
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58d2d984205642c92cb"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "m1@m.com",
+        "m2@m.com",
+        "m3@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "x10@x.com",
+        "h1@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "x9@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "y1@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "k1@k.com",
+        "k2@k.com",
+        "y7@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "prodaja3@p.com",
+        "prodaja5@p.com",
+        "th2@t.com",
+        "th4@t.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 8
+  }
+},{
+  "_id": {
+    "$oid": "62dbe58d2d984205642c92cd"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y6@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "m1@m.com",
+        "m2@m.com",
+        "m3@m.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "th3@t.com",
+        "th4@t.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "x10@x.com",
+        "k1@k.com",
+        "k2@k.com",
+        "y8@y.com",
+        "z4@z.com",
+        "z5@z.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 11
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5902d984205642c92cf"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "z1@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "x9@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "h1@h.com",
+        "h2@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "y3@y.com",
+        "y4@y.com",
+        "y6@y.com",
+        "m1@m.com",
+        "m2@m.com",
+        "m5@m.com",
+        "prodaja2@p.com",
+        "prodaja4@p.com",
+        "ad1@a.com",
+        "ad3@a.com",
+        "th1@t.com",
+        "th3@t.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 12
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5902d984205642c92d1"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "z5@z.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "y1@y.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "w1@w.com",
+        "w3@w.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "th1@t.com",
+        "th3@t.com",
+        "th5@t.com",
+        "m1@m.com",
+        "m2@m.com",
+        "m3@m.com",
+        "k1@k.com",
+        "k2@k.com",
+        "prodaja1@p.com",
+        "prodaja3@p.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 13
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5912d984205642c92d3"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "th1@t.com",
+        "th3@t.com",
+        "th4@t.com",
+        "th5@t.com",
+        "ad1@a.com",
+        "ad3@a.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x4@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "h1@h.com",
+        "h2@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja4@p.com",
+        "m1@m.com",
+        "m3@m.com",
+        "m5@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 14
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5912d984205642c92d5"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "y8@y.com",
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "x10@x.com",
+        "prodaja1@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "y6@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "th1@t.com",
+        "th2@t.com",
+        "th3@t.com",
+        "th4@t.com",
+        "z1@z.com",
+        "z3@z.com",
+        "x9@x.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "m1@m.com",
+        "m3@m.com",
+        "m5@m.com",
+        "h1@h.com",
+        "h2@h.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 15
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5922d984205642c92d7"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "y8@y.com",
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "x10@x.com",
+        "h2@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x8@x.com",
+        "z1@z.com",
+        "z2@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "x9@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "m2@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "prodaja2@p.com",
+        "prodaja5@p.com",
+        "ad2@a.com",
+        "ad3@a.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 18
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5932d984205642c92d9"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z5@z.com",
+        "x9@x.com",
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x6@x.com",
+        "h1@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "k2@k.com",
+        "k3@k.com",
+        "y7@y.com",
+        "y8@y.com",
+        "m1@m.com",
+        "m3@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "th1@t.com",
+        "th5@t.com",
+        "ad3@a.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "y1@y.com",
+        "y2@y.com",
+        "y4@y.com",
+        "y6@y.com",
+        "w1@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja2@p.com",
+        "prodaja5@p.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 19
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5932d984205642c92db"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "w1@w.com",
+        "w3@w.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "z3@z.com",
+        "z4@z.com",
+        "z5@z.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "y2@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "k1@k.com",
+        "k2@k.com",
+        "k3@k.com",
+        "m1@m.com",
+        "m2@m.com",
+        "m4@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 20
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5942d984205642c92dd"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "y1@y.com",
+        "y2@y.com",
+        "y3@y.com",
+        "y4@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "x2@x.com",
+        "x4@x.com",
+        "x6@x.com",
+        "x7@x.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com",
+        "h1@h.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "m1@m.com",
+        "m3@m.com",
+        "m4@m.com",
+        "m5@m.com",
+        "z1@z.com",
+        "z2@z.com",
+        "x9@x.com",
+        "k1@k.com",
+        "k2@k.com",
+        "y7@y.com",
+        "th1@t.com",
+        "th5@t.com",
+        "ad1@a.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 21
+  }
+},{
+  "_id": {
+    "$oid": "62dbe5942d984205642c92df"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y7@y.com",
+        "y8@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "x9@x.com",
+        "y1@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "h2@h.com",
+        "m2@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 22
+  }
+},{
+  "_id": {
+    "$oid": "62dc5599b891bf9fece97b30"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y7@y.com",
+        "y8@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "x9@x.com",
+        "y1@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "h2@h.com",
+        "m2@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 22
+  }
+},{
+  "_id": {
+    "$oid": "62e04a1960ddd5297bcda2a9"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y7@y.com",
+        "y8@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "x9@x.com",
+        "y1@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "h2@h.com",
+        "m2@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 22
+  }
+},{
+  "_id": {
+    "$oid": "62e19b9a578c5bbd58a58695"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "x1@x.com",
+        "x2@x.com",
+        "x3@x.com",
+        "x4@x.com",
+        "x5@x.com",
+        "x6@x.com",
+        "x7@x.com",
+        "x8@x.com",
+        "y7@y.com",
+        "y8@y.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+        "w1@w.com",
+        "w2@w.com",
+        "w3@w.com",
+        "w4@w.com",
+        "x10@x.com",
+        "prodaja1@p.com",
+        "prodaja2@p.com",
+        "prodaja3@p.com",
+        "prodaja4@p.com",
+        "prodaja5@p.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+        "z1@z.com",
+        "z2@z.com",
+        "x9@x.com",
+        "y1@y.com",
+        "y5@y.com",
+        "y6@y.com",
+        "ad1@a.com",
+        "ad2@a.com",
+        "ad3@a.com",
+        "h2@h.com",
+        "m2@m.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 7,
+    "day": 22
+  }
+},{
+  "_id": {
+    "$oid": "62eeca9a81d1618aec60f0de"
+  },
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "offices": [
+    {
+      "office_id": {
+        "$oid": "62dae651ed5641adb4eb3620"
+      },
+      "users": [
+        "brandon_gallagher@xyz.com",
+    "toby_dixon@xyz.com",
+    "dominic_carter@xyz.com",
+    "jadiel_skinner@xyz.com",
+    "jesse_burton@xyz.com",
+    "micheal_burke@xyz.com",
+    "eve_harris@xyz.com",
+    "megan_george@xyz.com",
+    "davion_stone@xyz.com",
+    "zain_rodriguez@xyz.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae726ed5641adb4eb3629"
+      },
+      "users": [
+       "brandon_gallagher@xyz.com",
+    "toby_dixon@xyz.com",
+    "dominic_carter@xyz.com",
+    "jadiel_skinner@xyz.com",
+    "jesse_burton@xyz.com",
+    "micheal_burke@xyz.com",
+    "eve_harris@xyz.com",
+    "megan_george@xyz.com",
+    "davion_stone@xyz.com",
+    "zain_rodriguez@xyz.com"
+      ]
+    },
+    {
+      "office_id": {
+        "$oid": "62dae6f0ed5641adb4eb3625"
+      },
+      "users": [
+       "brandon_gallagher@xyz.com",
+    "toby_dixon@xyz.com",
+    "dominic_carter@xyz.com",
+    "jadiel_skinner@xyz.com",
+    "jesse_burton@xyz.com",
+    "micheal_burke@xyz.com",
+    "eve_harris@xyz.com",
+    "megan_george@xyz.com",
+    "davion_stone@xyz.com",
+    "zain_rodriguez@xyz.com"
+      ]
+    }
+  ],
+  "date": {
+    "year": 2022,
+    "month": 8,
+    "day": 18
+  }
+}]

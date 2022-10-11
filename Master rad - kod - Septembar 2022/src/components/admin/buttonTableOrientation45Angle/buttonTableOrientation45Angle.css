@@ -1,0 +1,84 @@
+.table_orient_and_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 2rem 0rem;
+  padding: 1rem;
+}
+
+.table_orient_frame {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-right: 1rem;
+}
+
+.rotate_button {
+  border: none;
+  background-color: green;
+  font-size: 1.2rem;
+  color: white;
+  box-shadow: 0.1rem 0.1rem gray;
+  margin-top: 1rem;
+}
+
+.table_orient {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  align-items: flex-start;
+  display: flex;
+  border: 0.5px solid lightgrey;
+}
+
+.empty {
+  border: none;
+  background-image: url("../../../assets/images/table/empty.png");
+}
+
+.deg45 {
+  background-image: url("../../../assets/images/table/table45.png");
+}
+
+.deg135 {
+  background-image: url("../../../assets/images/table/table135.png");
+}
+
+.deg225 {
+  background-image: url("../../../assets/images/table/table225.png");
+}
+
+.deg315 {
+  background-image: url("../../../assets/images/table/table315.png");
+}
+
+.deg45taken {
+  background-image: url("../../../assets/images/table/taken45.png");
+}
+
+.deg135taken {
+  background-image: url("../../../assets/images/table/taken135.png");
+}
+
+.deg225taken {
+  background-image: url("../../../assets/images/table/taken225.png");
+}
+
+.deg315taken {
+  background-image: url("../../../assets/images/table/taken315.png");
+}
+
+.green {
+  background-image: url("../../../assets/images/table/table-green.png");
+}
+
+.red {
+  background-image: url("../../../assets/images/table/table-red.png");
+}
+
+.gray {
+  background-image: url("../../../assets/images/table/table.png");
+}

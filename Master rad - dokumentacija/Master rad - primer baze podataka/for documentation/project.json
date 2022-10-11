@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "62dace0cadf46c036fc6e559"
+  },
+  "project_name": "Team 1",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "rory_marshall@xyz.com",
+    "kyle_bennett@xyz.com",
+    "brandon_gallagher@xyz.com",
+    "toby_dixon@xyz.com",
+    "dominic_carter@xyz.com",
+    "jadiel_skinner@xyz.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db548448cb4d7b01b9beb0"
+  },
+  "project_name": "Marketing",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "jesse_burton@xyz.com",
+    "micheal_burke@xyz.com",
+    "eve_harris@xyz.com",
+    "megan_george@xyz.com",
+    "scarlett_johnson@xyz.com"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62daea08e35f944847715563"
+  },
+  "project_name": "HR",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "users": [
+    "davion_stone@xyz.com",
+    "zain_rodriguez@xyz.com",
+  ],
+  "__v": 0
+}]

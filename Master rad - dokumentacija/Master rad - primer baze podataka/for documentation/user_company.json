@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "62dacdc2adf46c036fc6e42f"
+  },
+  "email": "rory_marshall@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacdcbadf46c036fc6e448"
+  },
+  "email": "kyle_bennett@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacdd5adf46c036fc6e462"
+  },
+  "email": "brandon_gallagher@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacddeadf46c036fc6e47d"
+  },
+  "email": "toby_dixon@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacde7adf46c036fc6e499"
+  },
+  "email": "dominic_carter@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacdf1adf46c036fc6e4b6"
+  },
+  "email": "jadiel_skinner@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dae9e0e35f94484771542a"
+  },
+  "email": "davion_stone@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dae9ede35f944847715452"
+  },
+  "email": "zain_rodriguez@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db542b48cb4d7b01b9bbb8"
+  },
+  "email": "jesse_burton@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db543548cb4d7b01b9bbef"
+  },
+  "email": "micheal_burke@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db543e48cb4d7b01b9bc27"
+  },
+  "email": "eve_harris@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db544948cb4d7b01b9bc60"
+  },
+  "email": "megan_george@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db545148cb4d7b01b9bc9a"
+  },
+  "email": "scarlett_johnson@xyz.com",
+  "company_id": "62dac09fadf46c036fc6dd56",
+  "registered": true,
+  "__v": 0
+}]

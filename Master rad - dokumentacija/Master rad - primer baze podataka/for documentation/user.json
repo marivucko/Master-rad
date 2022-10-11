@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "62dac07aadf46c036fc6dd3d"
+  },
+  "full_name": "Admin",
+  "email": "admin@a.com",
+  "password": "Mm@2arina",
+  "admin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dace43adf46c036fc6e64d"
+  },
+  "full_name": "Rory Marshall",
+  "email": "rory_marshall@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62daceaaadf46c036fc6e693"
+  },
+  "full_name": "Kyle Bennett",
+  "email": "kyle_bennett@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dacf18adf46c036fc6e6db"
+  },
+  "full_name": "Brandon Gallagher",
+  "email": "brandon_gallagher@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dad04badf46c036fc6e751"
+  },
+  "full_name": "Toby Dixon",
+  "email": "toby_dixon@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dad0d2adf46c036fc6e799"
+  },
+  "full_name": "Dominic Carter",
+  "email": "dominic_carter@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62dad11fadf46c036fc6e7db"
+  },
+  "full_name": "Jadiel Skinner",
+  "email": "jadiel_skinner@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db503c48cb4d7b01b9b54f"
+  },
+  "full_name": "Davion Stone",
+  "email": "davion_stone@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db509548cb4d7b01b9b5a5"
+  },
+  "full_name": "Zain Rodriguez",
+  "email": "zain_rodriguez@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db54d448cb4d7b01b9bff5"
+  },
+  "full_name": "Jesse Burton",
+  "email": "jesse_burton@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db55bb48cb4d7b01b9c05e"
+  },
+  "full_name": "Micheal Burke",
+  "email": "micheal_burke@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db561a48cb4d7b01b9c0ba"
+  },
+  "full_name": "Eve Harris",
+  "email": "eve_harris@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db568648cb4d7b01b9c11f"
+  },
+  "full_name": "Megan George",
+  "email": "megan_george@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62db56d748cb4d7b01b9c17b"
+  },
+  "full_name": "Scarlett Johnson",
+  "email": "scarlett_johnson@xyz.com",
+  "password": "Mm@2arina",
+  "admin": false,
+  "__v": 0
+}]

@@ -1,0 +1,259 @@
+{
+  "nav_bar": {
+    "app_name_first_word": "Munkaterület",
+    "app_name_second_word": "kezelő",
+    "login": "Bejelentkezés",
+    "register": "Regisztráció",
+    "home_page": "Kezdőlap",
+    "sign_out": "Kijelentkezés",
+    "admin": {
+      "home_page": "Adminisztrátor kezdőlapja",
+      "add_company": "Cég hozzáadása",
+      "offices": "Irodák",
+      "projects": "Projektek",
+      "workers": "Munkások",
+      "seating_chart": "Üléstáblázat",
+      "analysis": "Elemzés"
+    },
+    "client": {
+      "coworkers": "Munkatársak",
+      "reserve_table": "Reserve table",
+      "seating_chart_today": "A mai ülés táblázat",
+      "seating_chart_tomorrow": "A holnapi üléstáblázat"
+    }
+  },
+  "home": {
+    "welcome": "Welcome",
+    "app_description": "Használja alkalmazásunkat a termelékenység növelésére, valamint az irodák és erőforrások használatának kezelésére."
+  },
+  "Regisztráció": {
+    "form_title": "Regisztráció",
+    "full_name": "Teljes név",
+    "email": "E-mail",
+    "password": "Jelszó",
+    "confirm-password": "Jelszó megerősítése",
+    "admin_long": "Jelölje be a mezőt, ha rendszergazda",
+    "admin_short": "Adminisztrátor",
+    "submit": "Regisztráció",
+    "full_name_not_valid_format": "A mező nem lehet üres.",
+    "email_not_valid_format": "Az e-mail formátuma érvénytelen.",
+    "passowrd_not_valid_format": "A jelszónak 6 karakternél hosszabbnak kell lennie, tartalmaznia kell legalább egy kis és egy nagy betűt, egy számjegyet és egy speciális karaktert.",
+    "password_and_confim_password_not_equal": "A jelszó és a megerősítési jelszó nem egyenlő.",
+    "auth_email_already_in_use": "Az ezzel az e-mail címmel rendelkező felhasználó már regisztrálva van. Ugrás a bejelentkezési oldalra.",
+    "auth_operation_not_allowed": "A művelet nem engedélyezett.",
+    "error": "Hiba."
+  },
+  "login": {
+    "form_title": "Bejelentkezés",
+    "email": "E-mail",
+    "password": "Jelszó",
+    "submit": "Bejelentkezés",
+    "email_not_valid_format": "Az e-mail formátuma érvénytelen.",
+    "auth_user_not_found": "Nincs felhasználó ezzel az e-mail-címmel. Először lépjen a regisztrációs oldalra.",
+    "auth_wrong_password": "A jelszó nem megfelelő.",
+    "error": "Hiba"
+  },
+  "admin": {
+    "home_page": {
+      "title": "Az Ön cégei"
+    },
+    "add_company": {
+      "form_title": "Cég hozzáadása",
+      "company_name": "Cég neve",
+      "address": "Cég címe",
+      "contact_email": "Kapcsolatfelvételi e-mail",
+      "contact_number": "Kapcsolattartási szám",
+      "start_of_working_hours": "Munkaidő kezdete",
+      "end_of_working_hours": "Munkaidő vége",
+      "submit": "Cég hozzáadása",
+      "email_not_valid_format": "Az e-mail formátuma érvénytelen.",
+      "error_empty_field": "A mező nem lehet üres.",
+      "success": "A vállalat sikeresen hozzáadva.",
+      "save": "Mentés"
+    },
+    "company_details": {
+      "form_title": "Cégadatok",
+      "company_name": "Cégnév:",
+      "address": "Cég címe:",
+      "contact_email": "Kapcsolatfelvételi e-mail:",
+      "contact_number": "Kapcsolattartási szám:",
+      "start_time": "Munkaidő kezdete:",
+      "end_time": "Munkaidő vége:",
+      "update": "Ugrás a frissítési oldalra"
+    },
+    "update_company": {
+      "form_title": "Cég frissítése",
+      "success": "A vállalat frissítése sikeresen megtörtént.",
+      "update": "Frissítés"
+    },
+    "delete_company": {
+      "success": "A vállalat sikeresen törölve.",
+      "delete": "Törlés"
+    },
+    "update_office": {
+      "form_title": "Iroda frissítése",
+      "update": "Frissítés",
+      "remove_tables": "Táblázatok eltávolítása",
+      "error_empty_field": "A mező nem lehet üres.",
+      "success": "Az iroda frissítése sikeresen megtörtént.",
+      "error": "Belső szerverhiba történt az iroda frissítése közben."
+    },
+    "offices": {
+      "form_title": "Irodák",
+      "floor": "Floor",
+      "no_offices": "Nincs hozzáadott iroda.",
+      "add_office_button": "Iroda hozzáadása"
+    },
+    "office_details": {
+      "form_title": "Az iroda adatai",
+      "update": "Ugrás a frissítési oldalra",
+      "delete": "Iroda törlése",
+      "delete_success": "Az iroda törlése sikeresen megtörtént",
+      "delete_error": "Belső szerverhiba történt az iroda eltávolítása közben."
+    },
+    "add_office": {
+      "form_title": "Iroda hozzáadása",
+      "office_name": "Iroda neve",
+      "office_floor": "emelet",
+      "office_columns": "Oszloponkénti helyek",
+      "office_rows": "Főhelyek soronként",
+      "office_name_error": "Kérjük, írja be az iroda nevét.",
+      "floor_error": "Kérjük, helyezze be az iroda emeletét.",
+      "success": "Az iroda sikeresen hozzáadva.",
+      "error": "Az adatok formátuma nem érvényes."
+    },
+    "projects": {
+      "workers_by_projects": "Projektek szerint szervezett dolgozók",
+      "add_project_placeholder": "Új projekt nevének beszúrása",
+      "project_name_is_empty": "Kérjük, írja be a projekt nevét.",
+      "project": "Projekt:",
+      "worker_placeholder": "A dolgozó e-mail-címének beszúrása",
+      "worker_placeholder_empty": "Kérjük, adja meg a dolgozó e-mail-címét.",
+      "worker_does_not_exist": "Ez a dolgozó nem létezik a vállalatban.",
+      "worker_already_in_this_project": "Ez a dolgozó már hozzá van adva ehhez a projekthez.",
+      "worker_already_in_other_project": "Ez a dolgozó már hozzá van adva a projekthez ",
+      "worker_added_successfully": "A dolgozó sikeresen hozzáadva a projekthez.",
+      "worker_deleted_successfully": "A dolgozó sikeresen törölve a projektből.",
+      "project_added_successfully": "A projekt sikeresen hozzáadva.",
+      "delete_project_button": "Projekt törlése",
+      "project_deleted_successfully": "A projekt sikeresen törölve."
+    },
+    "workers": {
+      "main_page": {
+        "registered_workers": "Regisztrált munkavállalók",
+        "project": "Projekt:",
+        "invited_users": "Meghívott felhasználók",
+        "invite_user_button": "Felhasználó meghívása",
+        "add_user_button": "Felhasználó hozzáadása",
+        "add_project_button": "Új projekt hozzáadása",
+        "no_reg_workers": "Még nincsenek regisztrált munkavállalók."
+      },
+      "invite_user": {
+        "title": "Új felhasználó meghívása e-mail küldésével",
+        "user_email": "Címzett e-mail-címe",
+        "user_full_name": "A fogadó teljes neve",
+        "full_name_empty": "A mező nem lehet üres.",
+        "subject": "Tárgy: ",
+        "subject_suggestion": "Meghívó a Workspace Manager alkalmazásba",
+        "subject_error": "A tárgy nem lehet üres.",
+        "message": "Üzenet: ",
+        "message_suggestion_part_1": "Kedves ",
+        "message_suggestion_part_2": ",\r\n\r\nA cég ",
+        "message_suggestion_part_3": " meghívja Önt, hogy csatlakozzon az alkalmazáshoz ",
+        "message_suggestion_part_4": "Együtt javíthatjuk a termelékenységet, és kezelhetjük irodáink és erőforrásaink felhasználását.\n\nÜdvözlettel: \n",
+        "message_error": "Az üzenet nem lehet üres.",
+        "toast_email_sent": "Az e-mail sikeresen elküldve.",
+        "toast_email_not_sent": "Az e-mailt nem küldték el.",
+        "tosat_already_registered": "A felhasználó már meghívva és regisztrálva van.",
+        "tosat_already_invited": "A felhasználó már meg van hívva.",
+        "invite": "Küldés",
+        "server_error": "Szerverhiba történt."
+      }
+    },
+    "seating_chart": {
+      "form_title": "Üléstáblázat",
+      "select_date": "Dátum kiválasztása",
+      "no_seating_chart_for_this_date": "Erre a dátumra nincs ülőhelytábla",
+      "select_office": "SELECT OFFICE",
+      "num_of_free_seats": "Szabad helyek száma az irodában:"
+    },
+    "analysis": {
+      "form_title": "Elemzés hét szerint",
+      "form_text": "Válasszon dátumot, és nézze meg az adott hét foglaltságát.",
+      "select_date": "Dátum kiválasztása",
+      "bar_chart_first_label": "Eljött dolgozók száma",
+      "bar_chart_second_label": "Azon dolgozók száma, akik szerettek volna jönni, de nem volt helyük"
+    }
+  },
+  "client": {
+    "home_page": {
+      "title": "Az Ön cégei"
+    },
+    "coworkers": {
+      "form_title": "Projektekben szerveződő munkatársai"
+    },
+    "reserve_table": {
+      "form_title": "Az Ön ütemezése",
+      "select_date": "Dátum kiválasztása",
+      "success_saving_date": "A kiválasztott dátum sikeresen bekerült az ütemezésbe.",
+      "success_removing_date": "A kiválasztott dátum sikeresen eltávolítva az ütemezésből.",
+      "all_places_fulfilled": "Sajnáljuk, de erre a dátumra már minden hely betöltött.",
+      "no_project_assigned_to_user": "Ellenőrizze az adminisztrátorral, hogy miért nincsenek hozzád rendelve projektek, és miért nem foglalnak asztalt.",
+      "num_of_free_seats": "Szabad helyek száma: ",
+      "add_yourself_button": "Adja hozzá magát",
+      "remove_yourself_button": "Távolítsa el magát",
+      "people_coming": "Az emberek projektek szerint szerveződnek:",
+      "no_one_coming": "Még senki nem töltötte ki, hogy jön",
+      "see_colleague_schedule": "Nézze meg kollégája ütemtervét",
+      "insert_colleague_email": "A kolléga e-mail-címének beszúrása",
+      "search_colleague_schedule_button": "Keresés",
+      "no_colleague_with_this_email": "A nincs kolléga ezzel az e-mail címmel."
+    },
+    "seating_chart": {
+      "today": "Ma",
+      "tomorrow": "Holnap",
+      "form_title_today": "A mai ülés táblázat",
+      "form_title_tomorrow": "A holnapi üléstáblázat",
+      "select_office": "SELECT OFFICE",
+      "no_seat_for_this_user_today": "Nem töltötte ki azt a kérdőívet, amelyre ma érkezik.",
+      "no_seat_for_this_user_tomorrow": "Nem töltötte ki a holnapi kérdőívet.",
+      "no_seating_chart_for_today": "A mai napra nincs ülőhelytábla.",
+      "no_seating_chart_for_tomorrow": "Holnapra nincs ültetési táblázat.",
+      "your_office": "Az Ön irodája a következőhöz: ",
+      "for_today": "ma: ",
+      "for_tomorrow": "holnap :",
+      "floor": "Emellet: "
+    }
+  },
+  "view_office": {
+    "label": "Helycímke:",
+    "full_name": "Teljes név:",
+    "email": "E-mail:",
+    "project": "Projekt:"
+  },
+  "send_email_form": {
+    "send_to_admin": {
+      "title": "Nincs hozzád rendelve céged. Érdeklődjön a cégadminisztrátortól, hogy felvette-e Önt.",
+      "message_suggestion_part_1": "Kedves ",
+      "message_suggestion_part_2": ",\n\nNincs hozzám rendelve cég. Meg tudod nézni, hogy a megfelelő céghez kerültem-e?\n\nÜdvözlettel,\n"
+    }
+  },
+  "survey": {
+    "day": {
+      "monday": "Hétfő",
+      "tuesday": "Kedd",
+      "wednesday": "Szerda",
+      "thursday": "Csütörtök",
+      "friday": "Péntek"
+    },
+    "add_button": "Hozzáadás",
+    "save_button": "Mentés"
+  },
+  "default_server": {
+    "error": {
+      "delete": "Belső szerverhiba történt az adatok törlése közben.",
+      "post": "Belső szerverhiba történt az adatok hozzáadása közben.",
+      "get": "Belső szerverhiba történt az adatok beolvasása közben."
+    }
+  }
+}

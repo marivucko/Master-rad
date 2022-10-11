@@ -1,0 +1,32 @@
+.container-two {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  position: relative;
+  border: 0.5px solid lightgrey;
+  /* border: none; */
+}
+
+.label-text {
+  width: 45px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.empty {
+  height: 100px;
+  width: 100px;
+}
+
+.table {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  align-items: flex-start;
+  display: flex;
+}

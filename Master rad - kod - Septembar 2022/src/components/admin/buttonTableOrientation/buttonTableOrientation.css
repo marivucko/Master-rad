@@ -1,0 +1,82 @@
+.table_orient_and_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.table_orient_frame {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  margin-right: 1rem;
+}
+
+.rotate_button {
+  border: none;
+  background-color: green;
+  font-size: 1.2rem;
+  color: white;
+  box-shadow: 0.1rem 0.1rem gray;
+  margin-top: 1rem;
+}
+
+.table_orient {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+  align-items: flex-start;
+  display: flex;
+  /* border: 0.5px solid lightgrey; */
+}
+
+.empty {
+  border: none;
+  background-image: url("../../../assets/images/table/empty.png");
+}
+
+.deg0 {
+  background-image: url("../../../assets/images/table/table.png");
+}
+
+.deg90 {
+  background-image: url("../../../assets/images/table/table90.png");
+}
+
+.deg180 {
+  background-image: url("../../../assets/images/table/table180.png");
+}
+
+.deg270 {
+  background-image: url("../../../assets/images/table/table270.png");
+}
+
+.deg0taken {
+  background-image: url("../../../assets/images/table/taken.png");
+}
+
+.deg90taken {
+  background-image: url("../../../assets/images/table/taken90.png");
+}
+
+.deg180taken {
+  background-image: url("../../../assets/images/table/taken180.png");
+}
+
+.deg270taken {
+  background-image: url("../../../assets/images/table/taken270.png");
+}
+
+.green {
+  background-image: url("../../../assets/images/table/table-green.png");
+}
+
+.red {
+  background-image: url("../../../assets/images/table/table-red.png");
+}
+
+.gray {
+  background-image: url("../../../assets/images/table/table.png");
+}

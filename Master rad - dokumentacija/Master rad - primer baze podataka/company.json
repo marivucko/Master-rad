@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "628be050199d657140330bd3"
+  },
+  "company_name": "Ott",
+  "address": "fds",
+  "contact_email": "fds@fd.ds",
+  "contact_number": "fsd",
+  "admin": "d@d.com",
+  "__v": 0,
+  "start_time": {
+    "hour": 9,
+    "minute": 15
+  },
+  "end_time": {
+    "hour": 20,
+    "minute": 45
+  }
+},{
+  "_id": {
+    "$oid": "62dac09fadf46c036fc6dd56"
+  },
+  "company_name": "XYZ",
+  "address": "Mp",
+  "contact_email": "fsd@df",
+  "contact_number": "234",
+  "start_time": {
+    "hour": 7,
+    "minute": 0
+  },
+  "end_time": {
+    "hour": 19,
+    "minute": 0
+  },
+  "admin": "admin@a.com",
+  "__v": 0
+}]

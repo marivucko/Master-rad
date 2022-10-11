@@ -1,0 +1,13 @@
+.office {
+  display: grid;
+  grid-template: repeat(3, 1fr) / repeat(3, 1fr);
+  grid-gap: 1px;
+  border: 1px solid white;
+  background-color: white;
+}
+
+.column1 {
+  border: none;
+  display: flex;
+  flex-direction: row;
+}

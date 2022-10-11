@@ -1,0 +1,58 @@
+:root {
+  --choose-language-background: rgba(196, 195, 195, 0.75);
+  --border-radius: 0.9rem;
+}
+
+.country-flag-background {
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 0.15rem;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+
+.country-flag-background:hover {
+  background-color: var(--nav-bar_color);
+}
+
+.country-flag {
+  border-radius: 50%;
+  height: 2.2rem;
+  width: 2.2rem;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  z-index: 10;
+  overflow: hidden;
+}
+
+.dropdown {
+  position: absolute;
+  background-color: var(--choose-language-background);
+  border-bottom-left-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  z-index: 1;
+  width: 2.5rem;
+}
+
+.choose-langugage-opened {
+  background-color: var(--choose-language-background);
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+}
+
+.meni-item {
+  animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-2.2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
